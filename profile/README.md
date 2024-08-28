@@ -28,4 +28,6 @@
 
 ###
 
+**For more information see [documentation](https://seacodelabs.atlassian.net/wiki/external/N2UwY2NiYzBiNGVjNDkwZGFkNjFhZDgyZTFjNTBkMjg).**
+
 **@sea-code-labs**
